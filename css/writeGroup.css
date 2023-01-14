@@ -21,7 +21,7 @@ main{
 
 .collect-group {
   background-image: url("../images/index2.png");
-  background-size: 1120px 1045px; /*가로 세로*/
+  background-size: 97% 107%; /*가로 1115px 세로 1045px*/
   position: absolute;
   top: -45px;
   left: 50px;
@@ -51,7 +51,7 @@ main{
   top: 420px ;
 }
 
-#write-club{
+#write-club>a{
   text-shadow: 1.5px 1.5px 1.5px gray;
   font-size: 25px;
   position: absolute;
@@ -60,7 +60,7 @@ main{
   color:rgb(246, 220, 71);
 }
 
-#write-club:hover {
+#write-club>a:hover {
   background: #fff;
   color: red;
 }
