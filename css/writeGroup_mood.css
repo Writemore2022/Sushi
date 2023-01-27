@@ -20,8 +20,8 @@ main{
 }
 
 .collect-group {
-  background-image: url("../images/index2.png");
-  background-size: 97% 107%; /*가로 1115px 세로 1045px*/
+  background-image: url("../images/index8.png");
+  background-size: 97% 101%; /*가로 1115px 세로 1045px*/
   position: absolute;
   top: -45px;
   left: 50px;
